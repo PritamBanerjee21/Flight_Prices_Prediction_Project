@@ -170,7 +170,7 @@ features = Pipeline(steps=[
 ])
 
 # Reading Training Data
-train = pd.read_csv("D:/FLIGHT_PRICE_PREDICTION/DATA/train.csv")
+train = pd.read_csv("train.csv")
 X_train = train.drop(['price'],axis=1)
 y_train = train.price
 
