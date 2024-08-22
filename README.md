@@ -6,6 +6,8 @@
 ## Overview
 This project involves the development of a web application that predicts flight prices using machine learning models. The dataset was sourced from Kaggle, and the entire process—from data cleaning to model deployment—was executed using Python, with a focus on functional programming techniques.
 
+The features present in the dataset are :- Airline, Date_of_Journey, Source, Destination, Route, Departure_Time, Arrival_Time, Duration, Total_Stops, Additional_Info, Price
+
 ## Table of Contents
 1. [Data Cleaning](#data-cleaning)
 2. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
