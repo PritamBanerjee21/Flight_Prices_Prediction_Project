@@ -70,7 +70,7 @@ To run the application locally:
 
 1. Clone the repository:
     ```bash
-    git clone [repository-link]
+    git clone https://github.com/PritamBanerjee21/Flight_Prices_Prediction_Project/tree/main
     ```
 2. Navigate to the project directory:
     ```bash
