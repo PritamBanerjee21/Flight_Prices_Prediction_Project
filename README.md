@@ -88,5 +88,3 @@ To run the application locally:
 The web application should now be accessible via your local browser.
 
 ---
-
-Feel free to adjust any parts as necessary before uploading it to GitHub!
